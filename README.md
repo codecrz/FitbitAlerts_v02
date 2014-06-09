@@ -1,5 +1,4 @@
-# Fitbit API demo
-From API Strategy & Practice Conference SF 2013
+# FitbitAlerts	
 
 ## Overview
 This application is a barebones example that demonstrates Fitbit OAuth 1.0a authentication, the Fitbit Subscriptions API, and the Twilio API.
